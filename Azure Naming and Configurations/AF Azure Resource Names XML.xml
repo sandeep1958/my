@@ -1,0 +1,499 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Barry Wyatt</Author>
+  <LastAuthor>Jon Castillo</LastAuthor>
+  <Created>2020-04-02T23:55:21Z</Created>
+  <LastSaved>2020-06-03T01:42:11Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <ContentTypeId dt:dt="string">0x010100E7F5200AA2E0494CA2FCC479932833D1</ContentTypeId>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>3893</WindowHeight>
+  <WindowWidth>10785</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="55" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="51" ss:DefaultRowHeight="14.25">
+   <Column ss:Width="185.625"/>
+   <Column ss:AutoFitWidth="0" ss:Width="135.75"/>
+   <Column ss:Width="55.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="138.375"/>
+   <Column ss:AutoFitWidth="0" ss:Width="47.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="87.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="93.375"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.125"/>
+   <Column ss:AutoFitWidth="0" ss:Width="93.375" ss:Span="1"/>
+   <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="83.625"/>
+   <Column ss:AutoFitWidth="0" ss:Width="97.125"/>
+   <Column ss:AutoFitWidth="0" ss:Width="984.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Resource Name</Data></Cell>
+    <Cell><Data ss:Type="String">Resource Type</Data></Cell>
+    <Cell><Data ss:Type="String">Region</Data></Cell>
+    <Cell><Data ss:Type="String">Resource Group</Data></Cell>
+    <Cell><Data ss:Type="String">Tag</Data></Cell>
+    <Cell><Data ss:Type="String">Value</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Nework</Data></Cell>
+    <Cell><Data ss:Type="String">Subnet</Data></Cell>
+    <Cell><Data ss:Type="String">IP Adress</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin Acct</Data></Cell>
+    <Cell><Data ss:Type="String">L A Password</Data></Cell>
+    <Cell><Data ss:Type="String">Domain Name</Data></Cell>
+    <Cell><Data ss:Type="String">Domain Admin</Data></Cell>
+    <Cell><Data ss:Type="String">D A Password</Data></Cell>
+    <Cell><Data ss:Type="String">Other</Data></Cell>
+   </Row>
+   <Row ss:Index="3" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC1</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.11</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">B2s/Std Disks/no backups. Repl w/cor/div/partners on- StrictReplCons is off</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">trnlabdcrepldc1579</Data></Cell>
+    <Cell><Data ss:Type="String">Network Interface</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Static 10.10.0.11</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC2</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.12</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">B2s/Std Disks/no backups. Repl w/cor/div/partners on- StrictReplCons is off</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">trnlabdcrepldc2144</Data></Cell>
+    <Cell><Data ss:Type="String">Network Interface</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Static 10.10.0.12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplW10</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.20</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Joined to the domain, Updates complete, DNS static/registered. Needs admin tools/WAC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">trnlabdcreplw10313</Data></Cell>
+    <Cell><Data ss:Type="String">Network Interface</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Static 10.10.0.20</Data></Cell>
+   </Row>
+   <Row ss:Index="10" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabReplGPA</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_Dcrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">3 accounts to use: GPAeditor- to modify GPOs, GPAapprover to approve and export GPOs, GPAadmin to modify GPA permissions. All pw = Passw0rdPassw0rd. Created in Administration/Administrative Account/690 COS OU</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabGpaSQdb</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_Dcrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Use GPAadmin account for all access and SQL</Data></Cell>
+   </Row>
+   <Row ss:Index="13" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC3</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_Dcrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">3rd DC only needed for demotion exercises </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplS19</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_Dcrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Server 2019 for doing promotion- currently member server in the Area01 domain.</Data></Cell>
+   </Row>
+   <Row ss:Index="16" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">Static 10.10.0.5</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">B2ms/SQL 2016, WS2016; SCCM CB v1910; Disk Config - E: SCCM Install, F: SQL, G: Content Library for app/package distribution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">trnlabcmps1521</Data></Cell>
+    <Cell><Data ss:Type="String">Network Interface</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Static 10.10.0.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMW10-01</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">Static 10.10.0.22</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Windows 10 Ent 1809 - SCCM workstation client</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">trnlabcmw10-01289</Data></Cell>
+    <Cell><Data ss:Type="String">Network Interface</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Static 10.10.0.22</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMW10-02</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">CreatedBy</Data></Cell>
+    <Cell><Data ss:Type="String">Jon</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">Static 10.10.0.23</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Addt'l Windows 10 Ent 1809 - SCCM workstation client</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">trnlabcmw10-0261</Data></Cell>
+    <Cell><Data ss:Type="String">Network Interface</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Static 10.10.0.23</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMWS16</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">CreatedBy</Data></Cell>
+    <Cell><Data ss:Type="String">Jon</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">Static 10.10.0.24</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Addt'l Windows Server 2016 - SCCM Server client</Data></Cell>
+   </Row>
+   <Row ss:Index="24" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDH1</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Machine</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell><Data ss:Type="String">10.10.0.8</Data></Cell>
+    <Cell><Data ss:Type="String">LocalAdmin</Data></Cell>
+    <Cell><Data ss:Type="String">Passw0rdPassw0rd</Data></Cell>
+    <Cell><Data ss:Type="String">Area01.lab</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">To be DHCP server- updated, static IP/registered DNS/domain joined. Needs DHCP role &amp; Authorized in AD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">trnlabdcrepldh1337</Data></Cell>
+    <Cell><Data ss:Type="String">Network Interface</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Static 10.10.0.8</Data></Cell>
+   </Row>
+   <Row ss:Index="27" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">Res Group</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001_DTL</Data></Cell>
+    <Cell><Data ss:Type="String">Dev Test Lab</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="28.5">
+    <Cell><Data ss:Type="String">Trn_Lab_RG_001</Data></Cell>
+    <Cell><Data ss:Type="String">Res Group</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Trn_Lab_RG_001&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Trn_Lab_001_Net</Data></Cell>
+    <Cell><Data ss:Type="String">Virtual Network</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_RG_001</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">10.10.0.0/16</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">DNS servers set to 10.10.0.11,10.10.0.12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001_Sub</Data></Cell>
+    <Cell><Data ss:Type="String">Subnet</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_RG_001</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">10.10.0.0/24</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">All services added</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC-nsg</Data></Cell>
+    <Cell><Data ss:Type="String">Network Security Group</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+   </Row>
+   <Row ss:Index="35" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabVault</Data></Cell>
+    <Cell><Data ss:Type="String">Recovery Services Vault</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_RG_001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC1weekly</Data></Cell>
+    <Cell><Data ss:Type="String">Backup Policy</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Trn_Lab_AzureBackup</Data></Cell>
+    <Cell><Data ss:Type="String">Resource Group</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Trn_Lab_AzureBackup</Data></Cell>
+   </Row>
+   <Row ss:Index="39" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC1_snap041020</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">TrnLabDCreplDC1 snapshot as of 04/10/20. 2 DCs plus DHCP svr and Win10 joined + DNS registrations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC2_snap041020</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">TrnLabDCreplDC2 snapshot as of 04/10/20. 2 DCs plus DHCP svr and Win10 joined + DNS registrations</Data></Cell>
+   </Row>
+   <Row ss:Index="42" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC1_snapshot040920</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">TrnLabDCreplDC1 snapshot as of 04/09/20. Only 2 DCs in domain- no SCCM/DHCP/client added to the domain.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabDCreplDC2_snapshot040920</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell><Data ss:Type="String">DOT</Data></Cell>
+    <Cell><Data ss:Type="String">REPL</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">TrnLabDCreplDC2 snapshot as of 04/09/20. Only 2 DCs in domain- no SCCM/DHCP/client added to the domain.</Data></Cell>
+   </Row>
+   <Row ss:Index="45" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_CLDisk_snap041320</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snapshot of Content library disk as of 4/13/20.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_CMDisk_snap041320</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snapshot of ConfigMgr installation directory as of 4/13/20. CB v1910 with MP and SUP configured</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_OSDisk_snap041320</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snapshot of TrnLabCMPS1 OS Disk as of 4/13/20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_DataDisk0_snap041320</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snapshot of DataDisk0 used by the SQL VM instance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_CLDisk_snap042020</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snapshot of Content library disk as of 4/20/20.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_CMDisk_snap042020</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snap of install directory as of 4/20/20. License key entered. Upgraded to full SCCM CB version</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_OSDisk_snap042020</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snapshot of OS Disk as of 4/20/20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMPS1_DataDisk0_snap042020</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snapshot of DataDisk0 used by the SQL VM instance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">TrnLabCMW10-01_OSDisk_snap042020</Data></Cell>
+    <Cell><Data ss:Type="String">Snapshot</Data></Cell>
+    <Cell><Data ss:Type="String">West US 2</Data></Cell>
+    <Cell><Data ss:Type="String">Trn_Lab_DCrepl_001</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Snap of Windows 10 SCCM client - Used for SDC App deployment scenarios and troubleshooting</Data></Cell>
+   </Row>
+   <Row ss:Index="55" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Microsoft Team</Data></Cell>
+    <Cell><Data ss:Type="String">AAD Security Group</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Used for IAM policies for resources within the subscription</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>21</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
